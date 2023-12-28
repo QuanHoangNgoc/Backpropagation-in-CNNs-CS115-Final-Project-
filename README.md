@@ -1,9 +1,5 @@
-CS115.UIT - Backpropagation in CNNs
+# CS115.UIT - Backpropagation in CNNs
 
-All report in 'master' branch. Thank you.
+- All report in 'master' branch. Thank you.
 
-Quan Hoang Ngoc, 
-
-Dai Truong Le Trong, 
-
-Hoang Long Nguye Huu
+- Quan Hoang Ngoc, Dai Truong Le Trong, Hoang Long Nguye Huu
