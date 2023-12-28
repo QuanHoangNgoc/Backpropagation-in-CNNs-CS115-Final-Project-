@@ -1,0 +1,3 @@
+https://poloclub.github.io/cnn-explainer/
+
+Đây là một paper làm về CNN visulization explain mà chúng em tìm được và tham khảo. Khá trực quan để mô phỏng về quy trình thực hiện của CNN.  
