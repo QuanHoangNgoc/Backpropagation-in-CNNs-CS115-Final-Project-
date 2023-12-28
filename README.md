@@ -2,4 +2,6 @@
 
 - All report in 'master' branch. Thank you.
 
-- Quan Hoang Ngoc, Dai Truong Le Trong, Hoang Long Nguye Huu
+- Hoàng Ngọc Quân - 22521178
+- Lê Trọng Đại Trường - 22521576
+- Nguyễn Hữu Hoàng Long - 22520817
