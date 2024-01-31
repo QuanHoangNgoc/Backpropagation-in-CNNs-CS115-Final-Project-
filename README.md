@@ -8,4 +8,6 @@
 # Repo Branch 
 - MAIN: Includes ipynb and ppt files during project completion.
 - FINAL_PROJECT: All about Project.
+### OneDrive: 
+- https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/ElmDhHgjM8VMrvw7_ZblSFEBcpSAzWhYLLTHZI52WQkPBg?e=nhqRlH
 
