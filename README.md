@@ -6,6 +6,6 @@
 - HK1, 2023-2024
   
 # Repo Branch 
-- MAIN: Includes ipynb and ppt files during project completion
-- FINAL_PROJECT: All about Project 
+- MAIN: Includes ipynb and ppt files during project completion.
+- FINAL_PROJECT: All about Project.
 
