@@ -4,6 +4,6 @@
 - Nguyễn Hữu Hoàng Long - 22520817
 - CS115.UIT - Backpropagation in CNNs
 - HK1, 2023-2024
-- 
+
 - All report in 'master' branch. Thank you.
 
