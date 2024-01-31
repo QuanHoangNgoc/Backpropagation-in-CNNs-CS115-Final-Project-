@@ -4,7 +4,8 @@
 - Nguyễn Hữu Hoàng Long - 22520817
 - CS115.UIT - Backpropagation in CNNs
 - HK1, 2023-2024
+  
 # Repo Branch 
-- main: Includes ipynb and ppt files during project completion
-- master: All about Project 
+- MAIN: Includes ipynb and ppt files during project completion
+- FINAL_PROJECT: All about Project 
 
