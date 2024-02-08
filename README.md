@@ -5,7 +5,8 @@
 - CS115.UIT - Backpropagation in CNNs
 - HK1, 2023-2024
 ### Show 
-- OneDrive submit: https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/ElmDhHgjM8VMrvw7_ZblSFEBcpSAzWhYLLTHZI52WQkPBg?e=nhqRlH
+- submit:
+-   https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/ElmDhHgjM8VMrvw7_ZblSFEBcpSAzWhYLLTHZI52WQkPBg?e=nhqRlH
   
 # Repo Branch 
 - MAIN: Includes ipynb and ppt files during project completion.
