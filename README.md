@@ -10,7 +10,7 @@
 ### show-off 
 # Repo Structure:  
 - RESOURCES: some resources, guidelines, documents and reports of this project.
-- ALL_PROJECT: all about the project which we submitted for the professor and achieved a grade of 10 in the subject. 
+- FINAL_PROJECT: all about the project which we submitted for the professor and achieved a grade of 10 in the subject. 
 - [x] OneDrive: [All_about_Project](https://uithcm-my.sharepoint.com/:f:/g/personal/22521178_ms_uit_edu_vn/ElmDhHgjM8VMrvw7_ZblSFEBcpSAzWhYLLTHZI52WQkPBg?e=nhqRlH)
   - Backup this project
   - Contain submit files for the professor
