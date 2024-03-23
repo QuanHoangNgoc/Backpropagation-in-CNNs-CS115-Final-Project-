@@ -6,7 +6,7 @@
 - _HK1_, 2023-2024
 
 ### about 
-- This is the Final Project about CNNs and Backpropagation for CS116.tkhmt.
+- This is the Final Project about CNNs and Backpropagation for CS115.tkhmt.
 ### show-off 
 # Repo Structure:  
 - RESOURCES: some resources, guidelines, documents and reports of this project.
