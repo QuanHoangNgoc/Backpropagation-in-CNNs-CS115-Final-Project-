@@ -1,6 +1,4 @@
-Based on the contents of the uploaded PowerPoint file, here’s a draft README for your GitHub repository:
-
-# 🧠 Backpropagation in Convolutional Neural Networks (CNNs)
+# 🧠 **Backpropagation in Convolutional Neural Networks (CNNs)**
 
 ![CNN](https://img.shields.io/badge/CNN-Backpropagation-blue)
 
