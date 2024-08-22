@@ -21,12 +21,9 @@ CNNs are the cornerstone of modern computer vision tasks such as image classific
 ### 🎬 **Demo & Results**
 The repository includes hands-on examples where you can visualize and analyze the backpropagation process in CNNs. [Explore our CNN Explainer Visualization Tool](https://poloclub.github.io/cnn-explainer/) to see how different layers of a CNN interact and learn.
 
-![image](https://github.com/user-attachments/assets/2073ebbb-fb50-4585-85dc-a103de0bcba1)
-![image](https://github.com/user-attachments/assets/bacadbcc-f4c5-4c5f-b78a-26a4743cfc74)
-![image](https://github.com/user-attachments/assets/1a191b1f-5139-4bb5-8046-d184e1d583c9)
-
-
-
+<img src="https://github.com/user-attachments/assets/2073ebbb-fb50-4585-85dc-a103de0bcba1" alt="CNN" width="300"/>
+<img src="https://github.com/user-attachments/assets/bacadbcc-f4c5-4c5f-b78a-26a4743cfc74" alt="CNN" width="300"/>
+<img src="https://github.com/user-attachments/assets/1a191b1f-5139-4bb5-8046-d184e1d583c9" alt="CNN" width="300"/>
 
 ---
 ## 🛠️ **How did we do it?**
